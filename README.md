@@ -44,4 +44,4 @@ GET /api/jobs    → Returns all jobs in JSON
 
 ## Credits
 
-Built following [freeCodeCamp Flask Tutorial](https://www.youtube.com/watch?v=yBDHkveJUf4)
+Built following [freeCodeCamp Flask Tutorial](https://www.youtube.com/watch?v=yBDHkveJUf4&t=7460s)
